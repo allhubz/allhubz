@@ -19,7 +19,6 @@ Tab:AddTextbox({
 })
 
 
-
 Tab:AddButton({
 	Name = "Check Key",
 	Callback = function()
